@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\2) Inventory Reorder Advisor\bin\Debug\2) Inventory Reorder Advisor.exe.config
+C:\Users\HP\source\repos\2) Inventory Reorder Advisor\bin\Debug\2) Inventory Reorder Advisor.exe
+C:\Users\HP\source\repos\2) Inventory Reorder Advisor\bin\Debug\2) Inventory Reorder Advisor.pdb
+C:\Users\HP\source\repos\2) Inventory Reorder Advisor\obj\Debug\2) Inventory Reorder Advisor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\2) Inventory Reorder Advisor\obj\Debug\2) Inventory Reorder Advisor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\2) Inventory Reorder Advisor\obj\Debug\2) Inventory Reorder Advisor.exe
+C:\Users\HP\source\repos\2) Inventory Reorder Advisor\obj\Debug\2) Inventory Reorder Advisor.pdb
